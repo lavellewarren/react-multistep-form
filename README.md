@@ -33,8 +33,3 @@ You're going to create a multistep form based on an in Figma pre-designed refere
 - Use demodata.json according to the example in Figma
 - Preferable work with [MUI](https://mui.com/material-ui), it's already added to the environment.
 
-# Report
-
-- When you complete this test task, please send me source code with zip file to this email(tommyveal.business@gmail.com). The deadline is the 21.09 5 PM CET.
-- The deadline for sharing your github link is the 21.09. 10 PM CET.
-- After that, you’ll directly receive on Friday the 23.09. our feedback.
